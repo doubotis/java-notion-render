@@ -1,5 +1,6 @@
 plugins {
     id 'java'
+    id 'maven-publish'
 }
 
 group 'be.doubotis.notion'
@@ -8,6 +9,21 @@ version '1.0'
 repositories {
     mavenCentral()
     maven { url 'https://jitpack.io' }
+}
+
+publishing {
+    publications {
+        myLibrary(MavenPublication) {
+            from components.java
+        }
+    }
+
+    repositories {
+        maven {
+            name = 'Repsy'
+            url = "https://repo.repsy.io/mvn/doubotis/default"
+        }
+    }
 }
 
 dependencies {
