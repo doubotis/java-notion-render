@@ -1,0 +1,399 @@
+{
+  "blocksMap": {
+    "d4759f4a-bad7-4210-8700-2f7b4c85c23c": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 35,
+        "type": "page",
+        "createdTime": 1618578638513,
+        "lastEditedTime": 1618582680000,
+        "parentId": "23215195-8d6e-485e-8f3e-a96645a0857e",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Comment installer l\u0027application SityTrail sous Android ?",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "23215195-8d6e-485e-8f3e-a96645a0857e": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 118,
+        "type": "page",
+        "createdTime": 1618578076601,
+        "lastEditedTime": 1618614660000,
+        "parentId": "a8dff191-3178-4a65-a593-2520931dd7c7",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Aide en ligne de l\u0027application mobile",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "a8dff191-3178-4a65-a593-2520931dd7c7": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 33,
+        "type": "page",
+        "createdTime": 1618577580000,
+        "lastEditedTime": 1618578780000,
+        "parentId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "parentTable": "space",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Documentation",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "06eb10ad-c95e-4747-bfbb-4bab6de280c8": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 10,
+        "type": "image",
+        "createdTime": 1618578653406,
+        "lastEditedTime": 1618578600000,
+        "parentId": "d4759f4a-bad7-4210-8700-2f7b4c85c23c",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "source": [
+            [
+              {
+                "content": "https://securestorage.geolives.com/siteimages/upload/files/1551001175WIKI%20MANUEL%20v1.jpg",
+                "isString": true
+              }
+            ]
+          ]
+        },
+        "format": {
+          "display_source": {
+            "content": "https://securestorage.geolives.com/siteimages/upload/files/1551001175WIKI%20MANUEL%20v1.jpg",
+            "isString": true
+          }
+        }
+      }
+    },
+    "90f9e92f-a31b-456e-8b97-ce6bc75d8bce": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 21,
+        "type": "numbered_list",
+        "createdTime": 1618578660000,
+        "lastEditedTime": 1618582680000,
+        "parentId": "d4759f4a-bad7-4210-8700-2f7b4c85c23c",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Rendez-vous sur le Play Store de Google pour les applications Android.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "a75c5951-f366-43a0-826d-031236cc5963": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 16,
+        "type": "numbered_list",
+        "createdTime": 1618578660000,
+        "lastEditedTime": 1618578660000,
+        "parentId": "d4759f4a-bad7-4210-8700-2f7b4c85c23c",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Inscrivez dans votre barre de recherche le nom « ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "SityTrail",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": " ».",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "f18ba5d4-cdb3-4164-8443-528dfcb97198": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 16,
+        "type": "numbered_list",
+        "createdTime": 1618578660000,
+        "lastEditedTime": 1618578660000,
+        "parentId": "d4759f4a-bad7-4210-8700-2f7b4c85c23c",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "De là, sélectionnez votre application et appuyez sur «",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": " Installer",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": " ».",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "db21b936-07e6-4c4b-a363-6f696f856e04": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 17,
+        "type": "numbered_list",
+        "createdTime": 1618578660000,
+        "lastEditedTime": 1618578660000,
+        "parentId": "d4759f4a-bad7-4210-8700-2f7b4c85c23c",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Une fois l’application installée, vous devez vous inscrire et créer un nouveau compte ou vous (re)connecter à un compte existant.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "0627e3b0-ef26-48e4-a1d2-5b35d9029ac6": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 4,
+        "type": "text",
+        "createdTime": 1618578660000,
+        "lastEditedTime": 1618578660000,
+        "parentId": "d4759f4a-bad7-4210-8700-2f7b4c85c23c",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Bienvenue.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "5308013a-5ca9-45d8-adfa-94a647d266bd": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 162,
+        "type": "callout",
+        "createdTime": 1618578660000,
+        "lastEditedTime": 1618578720000,
+        "parentId": "d4759f4a-bad7-4210-8700-2f7b4c85c23c",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Remarque importante ",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ],
+                [
+                  {
+                    "content": "_",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": ":",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "_",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "  Dû à un bug de la part de Google sur certains appareils, l\u0027application Android peut vous demander l\u0027accès à vos contacts. Geolives certifie que l\u0027application SityTrail n\u0027utilise en aucun cas les données de vos contacts.\n\nPlus d\u0027informations via Google sur ce lien, en anglais : ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "https://developer.android.com/about/versions/oreo/android-8.0-changes#rmp",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "a",
+                    "isString": true
+                  },
+                  {
+                    "content": "https://developer.android.com/about/versions/oreo/android-8.0-changes#rmp",
+                    "isString": true
+                  }
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "page_icon": {
+            "content": "💡",
+            "isString": true
+          },
+          "block_color": {
+            "content": "gray_background",
+            "isString": true
+          }
+        }
+      }
+    },
+    "05e0aced-7756-4b54-a3f0-6133fb795f95": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 12,
+        "type": "text",
+        "createdTime": 1618578720000,
+        "lastEditedTime": 1618578780000,
+        "parentId": "d4759f4a-bad7-4210-8700-2f7b4c85c23c",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833"
+      }
+    }
+  }
+}

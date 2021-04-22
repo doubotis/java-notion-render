@@ -1,0 +1,367 @@
+{
+  "blocksMap": {
+    "1b0fd5c2-4c8d-493a-b055-3fccd8ded32b": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 42,
+        "type": "page",
+        "createdTime": 1618582604982,
+        "lastEditedTime": 1618582800000,
+        "parentId": "23215195-8d6e-485e-8f3e-a96645a0857e",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Comment installer l\u0027application sous iOS ?",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "23215195-8d6e-485e-8f3e-a96645a0857e": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 118,
+        "type": "page",
+        "createdTime": 1618578076601,
+        "lastEditedTime": 1618614660000,
+        "parentId": "a8dff191-3178-4a65-a593-2520931dd7c7",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Aide en ligne de l\u0027application mobile",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "a8dff191-3178-4a65-a593-2520931dd7c7": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 33,
+        "type": "page",
+        "createdTime": 1618577580000,
+        "lastEditedTime": 1618578780000,
+        "parentId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "parentTable": "space",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Documentation",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "6cb5f6f3-c293-46f7-bca5-26cf329c8306": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 10,
+        "type": "image",
+        "createdTime": 1618582615226,
+        "lastEditedTime": 1618582560000,
+        "parentId": "1b0fd5c2-4c8d-493a-b055-3fccd8ded32b",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "source": [
+            [
+              {
+                "content": "https://securestorage.geolives.com/siteimages/upload/files/1551001175WIKI%20MANUEL%20v1.jpg",
+                "isString": true
+              }
+            ]
+          ]
+        },
+        "format": {
+          "display_source": {
+            "content": "https://securestorage.geolives.com/siteimages/upload/files/1551001175WIKI%20MANUEL%20v1.jpg",
+            "isString": true
+          }
+        }
+      }
+    },
+    "481252c1-d104-4b2a-b6bf-2375ffa42ec0": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 17,
+        "type": "numbered_list",
+        "createdTime": 1618582637087,
+        "lastEditedTime": 1618582620000,
+        "parentId": "1b0fd5c2-4c8d-493a-b055-3fccd8ded32b",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Rendez-vous sur l\u0027AppStore.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "3fbda01f-fc48-4bfc-8e68-1b453613c604": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 15,
+        "type": "numbered_list",
+        "createdTime": 1618582620000,
+        "lastEditedTime": 1618582620000,
+        "parentId": "1b0fd5c2-4c8d-493a-b055-3fccd8ded32b",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Inscrivez dans votre barre de recherche le nom « ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "SityTrail ",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "».",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "81fbe6df-1d02-4e2e-acfb-ebad351d6909": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 15,
+        "type": "numbered_list",
+        "createdTime": 1618582620000,
+        "lastEditedTime": 1618582620000,
+        "parentId": "1b0fd5c2-4c8d-493a-b055-3fccd8ded32b",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "De là, sélectionnez l’application et appuyez sur « ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "Installer ",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "».",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "a54d5933-9584-47cf-8a65-0a93758d30dd": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 9,
+        "type": "numbered_list",
+        "createdTime": 1618582620000,
+        "lastEditedTime": 1618582620000,
+        "parentId": "1b0fd5c2-4c8d-493a-b055-3fccd8ded32b",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Une fois l’application installée, vous devez vous inscrire et créer un nouveau compte ou vous (re)connecter à un compte existant.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "5b1e119d-8f13-414e-a206-66306b1e35d2": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 5,
+        "type": "text",
+        "createdTime": 1618582637088,
+        "lastEditedTime": 1618582800000,
+        "parentId": "1b0fd5c2-4c8d-493a-b055-3fccd8ded32b",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Bienvenue.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "adac3bc3-e39b-456a-9ed1-d1724c2e658a": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 21,
+        "type": "callout",
+        "createdTime": 1618582637088,
+        "lastEditedTime": 1618582740000,
+        "parentId": "1b0fd5c2-4c8d-493a-b055-3fccd8ded32b",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Remarque importante :",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ],
+                [
+                  {
+                    "content": "_",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": " Au premier lancement de l\u0027application, veuillez choisir \"Toujours autoriser\" pour que le GPS reste toujours actif même lorsque l\u0027écran est éteint.",
+                "isString": true
+              }
+            ]
+          ]
+        },
+        "format": {
+          "page_icon": {
+            "content": "💡",
+            "isString": true
+          },
+          "block_color": {
+            "content": "gray_background",
+            "isString": true
+          }
+        }
+      }
+    },
+    "4dcdf206-5694-4b71-9423-ad78e9bdc2f8": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 4,
+        "type": "text",
+        "createdTime": 1618582637088,
+        "lastEditedTime": 1618582740000,
+        "parentId": "1b0fd5c2-4c8d-493a-b055-3fccd8ded32b",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833"
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+rootProject.name = 'java-notion-render'
+include 'notion-render'
+
+

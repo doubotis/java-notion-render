@@ -1,0 +1,512 @@
+{
+  "blocksMap": {
+    "333dd3d9-2fce-4bee-bf3b-18e67ffe1351": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 23,
+        "type": "page",
+        "createdTime": 1618583428565,
+        "lastEditedTime": 1618583580000,
+        "parentId": "23215195-8d6e-485e-8f3e-a96645a0857e",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Pourquoi les prix ont-ils changé pour certains abonnements ?",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "23215195-8d6e-485e-8f3e-a96645a0857e": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 118,
+        "type": "page",
+        "createdTime": 1618578076601,
+        "lastEditedTime": 1618614660000,
+        "parentId": "a8dff191-3178-4a65-a593-2520931dd7c7",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Aide en ligne de l\u0027application mobile",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "a8dff191-3178-4a65-a593-2520931dd7c7": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 33,
+        "type": "page",
+        "createdTime": 1618577580000,
+        "lastEditedTime": 1618578780000,
+        "parentId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "parentTable": "space",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Documentation",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "2600792a-5e01-483a-8787-36d3816d66e7": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 5,
+        "type": "text",
+        "createdTime": 1618583573909,
+        "lastEditedTime": 1618583580000,
+        "parentId": "333dd3d9-2fce-4bee-bf3b-18e67ffe1351",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Tous les abonnements sont maintenant passés à ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "24,99€ par an par pays",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": " et également 24,99€ par an pour la version Monde (World) et ceci pour plusieurs raisons : ",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "c886fecb-33b6-45e7-b98d-246e62a39373": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 19,
+        "type": "bulleted_list",
+        "createdTime": 1618583580000,
+        "lastEditedTime": 1618583580000,
+        "parentId": "333dd3d9-2fce-4bee-bf3b-18e67ffe1351",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Chaque abonnement à un pays donne comme toujours accès aux ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "cartes topographiques de l’IGN de ce pays",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": ". Mais il donne également accès en plus aux ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "cartes OpenStreetMap",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": " ( ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "https://www.openstreetmap.org",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "a",
+                    "isString": true
+                  },
+                  {
+                    "content": "https://www.openstreetmap.org/",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": " ) que vous pouvez exploiter pour ce pays mais également pour toutes vos randonnées à l’étranger et ceci ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "partout dans le monde",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": ".",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "eb105a3b-574b-4a30-8781-0751fe4dea2e": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 16,
+        "type": "bulleted_list",
+        "createdTime": 1618583580000,
+        "lastEditedTime": 1618583580000,
+        "parentId": "333dd3d9-2fce-4bee-bf3b-18e67ffe1351",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Pour la version Monde (World) spécifiquement, suite à la demande de nombreux utilisateurs, nous avons ajouté, en plus des ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "cartes SityTrail Topo World",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": ", les ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "itinéraires balisés dans le monde",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": " (réseaux pédestres comme les GR, les itinéraires européens, les chemins de Saint-Jacques de Compostelle, ..., réseaux vélo avec les Voies vertes en France, Ravel en Belgique, itinéraires européens, les réseaux Points-Nœuds au Pays-Bas et en Flandre, …, pistes de ski par couleur).Nous avons également rajouté une autre carte très utile en randonnée. A savoir : la ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "carte des pentes",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": " qui est exploitable en superposition de vos cartes topographiques et ceci aussi si bien sur le web que sur vos smartphones/tablettes en mode hors ligne.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "03770709-2f66-4665-9e76-6942355d414c": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 11,
+        "type": "bulleted_list",
+        "createdTime": 1618583580000,
+        "lastEditedTime": 1618583580000,
+        "parentId": "333dd3d9-2fce-4bee-bf3b-18e67ffe1351",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Un point plus technique mais très important, ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "nous avons migré récemment nos serveurs sur l\u0027infrastructure Google Cloud",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": ". Ceci afin d\u0027améliorer très fortement la stabilité de nos services et éviter les pannes que nous avons rencontrées avec notre ancienne infrastructure. Bien entendu, ceci engendre des coûts supplémentaires importants.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "4e80a893-54a9-43f8-861b-cf18587703dc": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 12,
+        "type": "bulleted_list",
+        "createdTime": 1618583580000,
+        "lastEditedTime": 1618583580000,
+        "parentId": "333dd3d9-2fce-4bee-bf3b-18e67ffe1351",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Suite à notre enquête auprès de plus de 1000 utilisateurs, nous avons apporté aux applications ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "beaucoup de nouvelles fonctionnalités et celles-ci sont enfin disponibles via notre site",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": " : ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "https://www.sitytrail.com",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "a",
+                    "isString": true
+                  },
+                  {
+                    "content": "https://www.sitytrail.com/",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": " . Nous vous invitons à les découvrir !  Nous envisageons actuellement la possibilité de proposer prochainement des a",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "bonnements combinés à plusieurs pays et / ou aux cartes du monde pour un prix réduit ",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "mais ces abonnements ne sont pas encore définis à l\u0027heure actuelle.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "11f53299-9ddc-4be5-a97f-db1222a201de": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 16,
+        "type": "text",
+        "createdTime": 1618583580000,
+        "lastEditedTime": 1618583580000,
+        "parentId": "333dd3d9-2fce-4bee-bf3b-18e67ffe1351",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833"
+      }
+    },
+    "37403fa8-cfdd-4107-9203-84e7c92f0d1a": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 3,
+        "type": "text",
+        "createdTime": 1618583580000,
+        "lastEditedTime": 1618583580000,
+        "parentId": "333dd3d9-2fce-4bee-bf3b-18e67ffe1351",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Merci pour votre compréhension, votre confiance et votre fidélité.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

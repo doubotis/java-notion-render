@@ -1,0 +1,607 @@
+{
+  "blocksMap": {
+    "fffa8e2c-68ad-4ab9-8b18-9c9613a2b4c5": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 25,
+        "type": "page",
+        "createdTime": 1618583440708,
+        "lastEditedTime": 1618584120000,
+        "parentId": "23215195-8d6e-485e-8f3e-a96645a0857e",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Comment retrouver les cartes topographiques de son abonnement en cours ?",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "23215195-8d6e-485e-8f3e-a96645a0857e": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 118,
+        "type": "page",
+        "createdTime": 1618578076601,
+        "lastEditedTime": 1618614660000,
+        "parentId": "a8dff191-3178-4a65-a593-2520931dd7c7",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Aide en ligne de l\u0027application mobile",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "a8dff191-3178-4a65-a593-2520931dd7c7": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 33,
+        "type": "page",
+        "createdTime": 1618577580000,
+        "lastEditedTime": 1618578780000,
+        "parentId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "parentTable": "space",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Documentation",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "3eefd1af-7164-42d0-9d76-3235830407d9": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 10,
+        "type": "image",
+        "createdTime": 1618584043501,
+        "lastEditedTime": 1618584000000,
+        "parentId": "fffa8e2c-68ad-4ab9-8b18-9c9613a2b4c5",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "source": [
+            [
+              {
+                "content": "https://securestorage.geolives.com/siteimages/upload/files/1551176689abonnement%20en%20cours%20v3.jpg",
+                "isString": true
+              }
+            ]
+          ]
+        },
+        "format": {
+          "display_source": {
+            "content": "https://securestorage.geolives.com/siteimages/upload/files/1551176689abonnement%20en%20cours%20v3.jpg",
+            "isString": true
+          }
+        }
+      }
+    },
+    "8144e310-6842-498f-9c70-9fda38c24fa2": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 10,
+        "type": "text",
+        "createdTime": 1618584060000,
+        "lastEditedTime": 1618584060000,
+        "parentId": "fffa8e2c-68ad-4ab9-8b18-9c9613a2b4c5",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "La nouvelle version regroupe les cartes de tous les pays au sein d\u0027une même application, il n\u0027est donc plus nécessaire de télécharger plusieurs applications si vous randonnez dans différents pays.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "f36c907b-9996-46ab-8372-884c57937d9a": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 10,
+        "type": "text",
+        "createdTime": 1618584060000,
+        "lastEditedTime": 1618584060000,
+        "parentId": "fffa8e2c-68ad-4ab9-8b18-9c9613a2b4c5",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Les cartes sont accessibles en fonction de vos abonnements.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "68255e3d-2eba-4bfc-a4fc-3c2d4673e48e": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 13,
+        "type": "text",
+        "createdTime": 1618584060000,
+        "lastEditedTime": 1618584120000,
+        "parentId": "fffa8e2c-68ad-4ab9-8b18-9c9613a2b4c5",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Vos abonnements actifs souscrits sur l\u0027ancienne version de SityTrail restent utilisables dans cette nouvelle version.",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ]
+          ]
+        }
+      }
+    },
+    "53a0d454-98dc-4aa3-a419-dc3919c21b75": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 11,
+        "type": "text",
+        "createdTime": 1618584060000,
+        "lastEditedTime": 1618584060000,
+        "parentId": "fffa8e2c-68ad-4ab9-8b18-9c9613a2b4c5",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Ils vous donnent accès aux cartes topographiques du pays acheté ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "et en PLUS aux cartes OpenStreetMap",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ],
+                [
+                  {
+                    "content": "_",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": " ",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "_",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "du monde entier",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ],
+                [
+                  {
+                    "content": "_",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": " et bien entendu aux fonctionnalités Premium.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "c568d458-7e6d-4031-9f84-89a268ac1090": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 2,
+        "type": "text",
+        "createdTime": 1618584062270,
+        "lastEditedTime": 1618584060000,
+        "parentId": "fffa8e2c-68ad-4ab9-8b18-9c9613a2b4c5",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Pour l\u0027abonnement à ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "SityTrail World",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": ", il vous donne accès aux cartes ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "OpenStreetMap et aux cartes topogarphiques SityTrail Topo World et également OpenCycleMap",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": " (vélo) et bien entendu aux fonctionnalités Premium.",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "3e57ca66-4d36-4126-826a-72f800998fae": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 3,
+        "type": "text",
+        "createdTime": 1618584062270,
+        "lastEditedTime": 1618584060000,
+        "parentId": "fffa8e2c-68ad-4ab9-8b18-9c9613a2b4c5",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Si vous n\u0027avez pas accès aux cartes auxquelles vous êtes abonné ou aux fonctionnalités Premium",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ],
+                [
+                  {
+                    "content": "_",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": " (téléchargement des cartes, ...) il y a plusieurs points à vérifier :",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "9b26b870-d0be-44b4-ac2f-e08fa8ae576f": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 18,
+        "type": "numbered_list",
+        "createdTime": 1618584060000,
+        "lastEditedTime": 1618584060000,
+        "parentId": "fffa8e2c-68ad-4ab9-8b18-9c9613a2b4c5",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Etes-vous bien ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "connecté à votre compte Sity ",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "? Si ce n\u0027est pas le cas, vous n\u0027avez accès qu\u0027aux cartes OpenStreetMap.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "7b9f4cf7-0032-4b48-b5f5-3c6cfcdde2cb": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 15,
+        "type": "numbered_list",
+        "createdTime": 1618584060000,
+        "lastEditedTime": 1618584060000,
+        "parentId": "fffa8e2c-68ad-4ab9-8b18-9c9613a2b4c5",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Etes-vous bien connecté ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "avec le même compte que sur l\u0027ancienne version",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": " ?Vous devez utiliser l\u0027option ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "\"Continuer avec un utilisateur Sity ou e-mail\" sur l\u0027écran de connexion et entrer le même nom d\u0027utilisateur que sur l\u0027ancienne version",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": " (ou l\u0027adresse e-mail liée au compte que vous utilisiez sur l\u0027ancienne version). ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "Si vous vous connectez avec Google ou avec Facebook, assurez-vous que l\u0027adresse e-mail de votre compte Google ou Facebook est bien la même que celle du compte SityTrail que vous utilisiez sur l\u0027ancienne version. ",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "Si ce n\u0027est pas le cas, vous ne pouvez pas vous connecter par compte Facebook ou Google, vous devez vous connecter via l\u0027option \"Continuer avec un utilisateur Sity ou e-mail\".",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "ab824422-ed56-4fad-9505-d9539a279b3e": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 12,
+        "type": "numbered_list",
+        "createdTime": 1618584060000,
+        "lastEditedTime": 1618584060000,
+        "parentId": "fffa8e2c-68ad-4ab9-8b18-9c9613a2b4c5",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Votre abonnement est-il toujours en cours de validité ",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "? Vous pouvez le vérifier via la section \"Mon compte\" \u003e \"Mes abonnements\" sur ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "https://shop.geolives.com",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "a",
+                    "isString": true
+                  },
+                  {
+                    "content": "https://shop.geolives.com/",
+                    "isString": true
+                  }
+                ]
+              ]
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

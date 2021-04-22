@@ -1,0 +1,38 @@
+body {
+    font-family: Georgia, serif;
+}
+
+.container {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.responsive {
+   width: 100%;
+}
+
+ul.checkbox {
+    padding-left: 0;
+}
+
+ul.checkbox li {
+    list-style: none;
+}
+
+ul.checkbox li i:first-child {
+    margin-right: 10px;
+}
+
+li.bullet {
+
+}
+
+.quote {
+    padding-left: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-left: 3px solid black;
+}

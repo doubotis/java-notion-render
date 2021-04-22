@@ -1,0 +1,650 @@
+{
+  "blocksMap": {
+    "fc30e59a-5a7e-48a8-94ca-c0288c6b4dcc": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 74,
+        "type": "page",
+        "createdTime": 1618582830980,
+        "lastEditedTime": 1618583040000,
+        "parentId": "23215195-8d6e-485e-8f3e-a96645a0857e",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Comment s’inscrire sur SityTrail ?",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "23215195-8d6e-485e-8f3e-a96645a0857e": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 118,
+        "type": "page",
+        "createdTime": 1618578076601,
+        "lastEditedTime": 1618614660000,
+        "parentId": "a8dff191-3178-4a65-a593-2520931dd7c7",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Aide en ligne de l\u0027application mobile",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "a8dff191-3178-4a65-a593-2520931dd7c7": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 33,
+        "type": "page",
+        "createdTime": 1618577580000,
+        "lastEditedTime": 1618578780000,
+        "parentId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "parentTable": "space",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Documentation",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "59aea496-c456-4ff9-b29d-31b291daf4f8": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 10,
+        "type": "image",
+        "createdTime": 1618582842310,
+        "lastEditedTime": 1618582800000,
+        "parentId": "fc30e59a-5a7e-48a8-94ca-c0288c6b4dcc",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "source": [
+            [
+              {
+                "content": "https://securestorage.geolives.com/siteimages/upload/files/1551175790inscription%20v4.jpg",
+                "isString": true
+              }
+            ]
+          ]
+        },
+        "format": {
+          "display_source": {
+            "content": "https://securestorage.geolives.com/siteimages/upload/files/1551175790inscription%20v4.jpg",
+            "isString": true
+          }
+        }
+      }
+    },
+    "c0b3ba8f-a849-4b5a-8ba9-45ec15f6f8a0": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 8,
+        "type": "text",
+        "createdTime": 1618582800000,
+        "lastEditedTime": 1618582800000,
+        "parentId": "fc30e59a-5a7e-48a8-94ca-c0288c6b4dcc",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833"
+      }
+    },
+    "677d1fd3-465f-4f44-93f5-975c1fbd5292": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 24,
+        "type": "numbered_list",
+        "createdTime": 1618582855806,
+        "lastEditedTime": 1618582860000,
+        "parentId": "fc30e59a-5a7e-48a8-94ca-c0288c6b4dcc",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Appuyez sur « ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "Se connecter ",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "» une fois l’application lancée.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "ca2dc474-4e98-4f64-a9cd-552d008d0c8b": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 21,
+        "type": "numbered_list",
+        "createdTime": 1618582860000,
+        "lastEditedTime": 1618582860000,
+        "parentId": "fc30e59a-5a7e-48a8-94ca-c0288c6b4dcc",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Sélectionnez ensuite le bouton « ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "Créer un compte Sity ",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "».",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "058eaf29-7e53-4504-b1f4-5b42eec54483": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 10,
+        "type": "text",
+        "createdTime": 1618582860000,
+        "lastEditedTime": 1618582860000,
+        "parentId": "fc30e59a-5a7e-48a8-94ca-c0288c6b4dcc",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833"
+      }
+    },
+    "b91fcb38-efc0-4bc3-9af1-122bb9f9906d": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 6,
+        "type": "text",
+        "createdTime": 1618582855806,
+        "lastEditedTime": 1618582860000,
+        "parentId": "fc30e59a-5a7e-48a8-94ca-c0288c6b4dcc",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "De là, 3 possibilités s\u0027offrent à vous.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "ecf88b09-87f3-4d68-a000-4612ad5e650a": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 40,
+        "type": "sub_sub_header",
+        "createdTime": 1618582860000,
+        "lastEditedTime": 1618583040000,
+        "parentId": "fc30e59a-5a7e-48a8-94ca-c0288c6b4dcc",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Inscription via Facebook",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "aeb36eb0-6824-4e78-8158-e0950b2a23f7": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 20,
+        "type": "numbered_list",
+        "createdTime": 1618582855807,
+        "lastEditedTime": 1618582860000,
+        "parentId": "fc30e59a-5a7e-48a8-94ca-c0288c6b4dcc",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Cliquez sur l\u0027onglet « ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "Inscription avec facebook ",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "».",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "5237de00-c0ca-4ca9-9d6e-a88e252376aa": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 9,
+        "type": "numbered_list",
+        "createdTime": 1618582860000,
+        "lastEditedTime": 1618582860000,
+        "parentId": "fc30e59a-5a7e-48a8-94ca-c0288c6b4dcc",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Suivez les différentes étapes qui vous seront proposées.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "99f96de2-dea1-440a-adac-2f895e8e4919": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 41,
+        "type": "sub_sub_header",
+        "createdTime": 1618582860000,
+        "lastEditedTime": 1618583040000,
+        "parentId": "fc30e59a-5a7e-48a8-94ca-c0288c6b4dcc",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Inscription via Google",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "09551006-1a31-4fb0-9248-2f8570ff4373": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 24,
+        "type": "numbered_list",
+        "createdTime": 1618582855807,
+        "lastEditedTime": 1618582920000,
+        "parentId": "fc30e59a-5a7e-48a8-94ca-c0288c6b4dcc",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Cliquez sur l\u0027’onglet « ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "Inscription avec Google ",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "».",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "09d727da-2c68-472f-ad49-f5fbdd3e5581": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 11,
+        "type": "numbered_list",
+        "createdTime": 1618582920000,
+        "lastEditedTime": 1618582920000,
+        "parentId": "fc30e59a-5a7e-48a8-94ca-c0288c6b4dcc",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Sélectionnez votre compte Google.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "1c64d4a2-b27e-42eb-8a81-6c9435824afb": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 13,
+        "type": "numbered_list",
+        "createdTime": 1618582920000,
+        "lastEditedTime": 1618582920000,
+        "parentId": "fc30e59a-5a7e-48a8-94ca-c0288c6b4dcc",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Suivez les instructions en cliquant sur l\u0027’onglet « ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "Lier le compte ",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "».",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "8d7c9df9-4cca-4a1b-89e1-1bc79d24734a": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 2,
+        "type": "text",
+        "createdTime": 1618582855807,
+        "lastEditedTime": 1618582800000,
+        "parentId": "fc30e59a-5a7e-48a8-94ca-c0288c6b4dcc",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "De cette façon votre compte Google sera relié à votre compte SityTrail.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "057c7e21-1011-42c3-9a3e-c4a6dede2a81": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 49,
+        "type": "sub_sub_header",
+        "createdTime": 1618582920000,
+        "lastEditedTime": 1618582920000,
+        "parentId": "fc30e59a-5a7e-48a8-94ca-c0288c6b4dcc",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Inscription via une adresse e-mail",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "19a26f4f-b978-4b24-bb94-be2a8b96be1e": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 16,
+        "type": "numbered_list",
+        "createdTime": 1618582855807,
+        "lastEditedTime": 1618582920000,
+        "parentId": "fc30e59a-5a7e-48a8-94ca-c0288c6b4dcc",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Remplissez les champs proposés (email, mot de passe et un nom d\u0027utilisateur).",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "342a4efc-41d1-42d1-8fcf-21ac4a80e87e": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 13,
+        "type": "numbered_list",
+        "createdTime": 1618582920000,
+        "lastEditedTime": 1618582920000,
+        "parentId": "fc30e59a-5a7e-48a8-94ca-c0288c6b4dcc",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Appuyez sur « ",
+                "isString": true
+              }
+            ],
+            [
+              {
+                "content": "Inscription ",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "» afin d’arriver sur votre nouveau compte SityTrail.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    }
+  }
+}
