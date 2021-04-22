@@ -1,6 +1,10 @@
 plugins {
     id 'java'
+    id 'maven-publish'
 }
+
+def props = new Properties()
+file("gradle.properties").withInputStream { props.load(it) }
 
 group 'be.doubotis.notion'
 version '1.0'
@@ -8,6 +12,25 @@ version '1.0'
 repositories {
     mavenCentral()
     maven { url 'https://jitpack.io' }
+}
+
+publishing {
+    publications {
+        myLibrary(MavenPublication) {
+            from components.java
+        }
+    }
+
+    repositories {
+        maven {
+            name = 'Repsy'
+            url = props.getProperty("publishMavenUrl")
+            credentials {
+                username props.getProperty("publishMavenUsername")
+                password props.getProperty("publishMavenPassword")
+            }
+        }
+    }
 }
 
 dependencies {

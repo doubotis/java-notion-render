@@ -2,15 +2,12 @@ plugins {
     id 'war'
 }
 
-group 'org.example'
+group 'be.doubotis.notion'
 version '1.0-SNAPSHOT'
 
 repositories {
     mavenCentral()
     maven { url 'https://jitpack.io' }
-    maven {
-        url "https://repo.repsy.io/mvn/doubotis/default"
-    }
 }
 
 dependencies {
@@ -19,5 +16,4 @@ dependencies {
 
     compile files('libs/iText-4.2.0-com.itextpdf.jar')
     compile project('notion-render');
-    //implementation 'be.doubotis.notion:notion-render:1.0'
 }
