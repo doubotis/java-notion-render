@@ -7,9 +7,9 @@ import breadcrumbs.BreadcrumbBuilder;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import javax.servlet.annotation.WebServlet;
-import java.io.File;
-import java.io.IOException;
-import java.io.PrintWriter;
+import java.io.*;
+import java.net.URL;
+import java.nio.charset.StandardCharsets;
 import java.util.Map;
 
 @WebServlet(name = "NotionServlet", urlPatterns = {"/NotionServlet"})
@@ -20,16 +20,30 @@ public class NotionServlet extends javax.servlet.http.HttpServlet {
     }
 
     protected void doGet(javax.servlet.http.HttpServletRequest request, javax.servlet.http.HttpServletResponse response) throws javax.servlet.ServletException, IOException {
+        // We send the reponse as UTF-8.
         response.setCharacterEncoding("UTF-8");
 
+        // Retreive the page id, with or without dashes.
         String pageId = request.getParameter("pageid");
 
-        // For test examples.
-        File f = new File("F:\\Developer\\IdeaProjects\\page-" + pageId.replace("-", "") + ".json");
+        // Build the resource name and get the inputstream of it.
+        String resourceName = "/page-" + pageId.replace("-", "") + ".json";
+        InputStream is = getClass().getResourceAsStream(resourceName);
+        if (is == null) {
+            // Send a 404 error if resource is not found.
+            response.sendError(404);
+            return;
+        }
+
+        // Build an InputStreamReader to pass it to an ObjectMapper.
+        InputStreamReader isr = new InputStreamReader(is, StandardCharsets.UTF_8);
         ObjectMapper om = new ObjectMapper();
-        NotionRecordMap nrm = om.readValue(f, NotionRecordMap.class);
+        NotionRecordMap nrm = om.readValue(isr, NotionRecordMap.class);
+
+        // Retreive the list of blocks.
         Map<String, NotionBlock> blocks = nrm.getBlocks();
 
+        // Setup the printer and return some headers.
         PrintWriter pw = response.getWriter();
         pw.println("<html>");
         pw.println("<head>");

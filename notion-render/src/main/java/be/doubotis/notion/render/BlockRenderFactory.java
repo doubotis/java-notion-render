@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import java.net.URLEncoder;
 import java.util.Map;
 
-
+/** Interface that allows the rendering of blocks by modular way. */
 public interface BlockRenderFactory {
 
     public static final String TYPE_PAGE = "page";
