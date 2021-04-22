@@ -31,3 +31,13 @@ factory.printHTMLContent(pw, blocks);
 You can also rewrite the theme factories to include your own behavior, CSS classes, etc.
 For this, you need to create a subclass of the `NotionThemeFactory` class. You'll need possibly to implement `RenderContext` interface.
 Please see the `be.doubotis.notion.render.theme.notion` package for more information.
+
+## Examples
+
+The web project showcase how you can produce HTML contents based on
+
+## Known caveats
+
+Some well-known caveats :
+* Datatables are not managed
+* Tabs are not managed
