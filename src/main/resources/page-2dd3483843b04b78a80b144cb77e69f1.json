@@ -1,25 +1,25 @@
 {
   "blocksMap": {
-    "aaaa9896-22d6-4420-9e45-5405a0b32f8d": {
+    "2dd34838-43b0-4b78-a80b-144cb77e69f1": {
       "role": "reader",
       "value": {
         "alive": true,
-        "version": 65,
+        "version": 1,
         "type": "page",
-        "createdTime": 1618583140636,
-        "lastEditedTime": 1618583280000,
-        "parentId": "23215195-8d6e-485e-8f3e-a96645a0857e",
+        "createdTime": 1619090657894,
+        "lastEditedTime": 1619090657894,
+        "parentId": "b0ee6af3-6d5e-445c-88cd-4fa4f7b389ae",
         "parentTable": "block",
         "createdByTable": "notion_user",
         "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
         "lastEditedByTable": "notion_user",
         "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
         "properties": {
           "title": [
             [
               {
-                "content": "Comment se (re)connecter à son compte SityTrail existant ?",
+                "content": "A quoi servent les différents boutons de l\u0027écran de la carte ?",
                 "isString": true
               }
             ]
@@ -27,21 +27,21 @@
         }
       }
     },
-    "23215195-8d6e-485e-8f3e-a96645a0857e": {
+    "b0ee6af3-6d5e-445c-88cd-4fa4f7b389ae": {
       "role": "reader",
       "value": {
         "alive": true,
-        "version": 118,
+        "version": 1,
         "type": "page",
-        "createdTime": 1618578076601,
-        "lastEditedTime": 1618614660000,
-        "parentId": "a8dff191-3178-4a65-a593-2520931dd7c7",
+        "createdTime": 1619090657893,
+        "lastEditedTime": 1619090657893,
+        "parentId": "b98849b2-c7c6-4549-8537-c25448b8f7c8",
         "parentTable": "block",
         "createdByTable": "notion_user",
         "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
         "lastEditedByTable": "notion_user",
         "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
         "properties": {
           "title": [
             [
@@ -54,21 +54,21 @@
         }
       }
     },
-    "a8dff191-3178-4a65-a593-2520931dd7c7": {
+    "b98849b2-c7c6-4549-8537-c25448b8f7c8": {
       "role": "reader",
       "value": {
         "alive": true,
-        "version": 33,
+        "version": 2,
         "type": "page",
-        "createdTime": 1618577580000,
-        "lastEditedTime": 1618578780000,
-        "parentId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "createdTime": 1619090660556,
+        "lastEditedTime": 1619090660556,
+        "parentId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
         "parentTable": "space",
         "createdByTable": "notion_user",
         "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
         "lastEditedByTable": "notion_user",
         "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
         "properties": {
           "title": [
             [
@@ -81,412 +81,442 @@
         }
       }
     },
-    "c9a0c733-cf7c-4ef1-91ea-2087ef85c903": {
+    "c0b4c6e9-3ae3-42f6-8186-649ad548e9d2": {
       "role": "reader",
       "value": {
         "alive": true,
-        "version": 10,
-        "type": "image",
-        "createdTime": 1618583149174,
-        "lastEditedTime": 1618583100000,
-        "parentId": "aaaa9896-22d6-4420-9e45-5405a0b32f8d",
+        "version": 1,
+        "type": "text",
+        "createdTime": 1619090657905,
+        "lastEditedTime": 1619090657905,
+        "parentId": "2dd34838-43b0-4b78-a80b-144cb77e69f1",
         "parentTable": "block",
         "createdByTable": "notion_user",
         "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
         "lastEditedByTable": "notion_user",
         "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Dans l\u0027application mobile, l\u0027écran carte possède un certain nombre de fonctions. Voici les fonctions principales.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "25c78352-421a-40a1-a4e9-7ef8a911491a": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 1,
+        "type": "image",
+        "createdTime": 1619090657895,
+        "lastEditedTime": 1619090657895,
+        "parentId": "2dd34838-43b0-4b78-a80b-144cb77e69f1",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
         "properties": {
           "source": [
             [
               {
-                "content": "https://securestorage.geolives.com/siteimages/upload/files/1551176097reconnexion%20v2.jpg",
+                "content": "https://securestorage.geolives.com/siteimages/upload/files/1531815791capture_ecran_carte.jpg",
                 "isString": true
               }
             ]
           ]
         },
         "format": {
+          "block_width": {
+            "content": "288",
+            "isString": false
+          },
           "display_source": {
-            "content": "https://securestorage.geolives.com/siteimages/upload/files/1551176097reconnexion%20v2.jpg",
+            "content": "https://securestorage.geolives.com/siteimages/upload/files/1531815791capture_ecran_carte.jpg",
             "isString": true
+          },
+          "block_full_width": {
+            "content": "false",
+            "isString": false
+          },
+          "block_page_width": {
+            "content": "false",
+            "isString": false
           }
         }
       }
     },
-    "9080bb75-a92a-4eaf-b1e8-4c5d82295fcc": {
+    "80443344-3f5b-4400-8d0b-e2c6f2a1173e": {
       "role": "reader",
       "value": {
         "alive": true,
-        "version": 8,
+        "version": 1,
         "type": "text",
-        "createdTime": 1618583160000,
-        "lastEditedTime": 1618583160000,
-        "parentId": "aaaa9896-22d6-4420-9e45-5405a0b32f8d",
+        "createdTime": 1619090657895,
+        "lastEditedTime": 1619090657895,
+        "parentId": "2dd34838-43b0-4b78-a80b-144cb77e69f1",
         "parentTable": "block",
         "createdByTable": "notion_user",
         "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
         "lastEditedByTable": "notion_user",
         "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833"
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425"
       }
     },
-    "d4d77607-e182-4d8e-b1e9-040dcf9c3275": {
+    "4e619592-57da-43c5-8cd5-2d00885d9afe": {
       "role": "reader",
       "value": {
         "alive": true,
-        "version": 2,
+        "version": 1,
+        "type": "numbered_list",
+        "createdTime": 1619090657895,
+        "lastEditedTime": 1619090657895,
+        "parentId": "2dd34838-43b0-4b78-a80b-144cb77e69f1",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Activer/désactiver le mode plein écran",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ]
+          ]
+        }
+      }
+    },
+    "1ef6de53-8996-4d54-b56f-9903591950f2": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 1,
+        "type": "numbered_list",
+        "createdTime": 1619090657895,
+        "lastEditedTime": 1619090657895,
+        "parentId": "2dd34838-43b0-4b78-a80b-144cb77e69f1",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Limiter à l\u0027affichage des cartes hors ligne",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ]
+          ]
+        }
+      }
+    },
+    "c3168219-a92f-4554-bd4a-1f73a31e85aa": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 1,
+        "type": "numbered_list",
+        "createdTime": 1619090657895,
+        "lastEditedTime": 1619090657895,
+        "parentId": "2dd34838-43b0-4b78-a80b-144cb77e69f1",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Afficher ou non les marqueurs sur la cartes\n",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "(points d\u0027intérêt et médias, photos, ...) - Visible seulement si une randonnée est ouverte ou un enregistrement est en cours",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "af01a06e-d74d-4530-9393-c292169f7d8a": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 1,
+        "type": "numbered_list",
+        "createdTime": 1619090657896,
+        "lastEditedTime": 1619090657896,
+        "parentId": "2dd34838-43b0-4b78-a80b-144cb77e69f1",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Passer en vue 2D/3D/Vue Nord",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ]
+          ]
+        }
+      }
+    },
+    "f3bf259f-f8b1-4fcc-8682-b05c9bfd55d2": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 1,
+        "type": "numbered_list",
+        "createdTime": 1619090657906,
+        "lastEditedTime": 1619090657906,
+        "parentId": "2dd34838-43b0-4b78-a80b-144cb77e69f1",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Activer/désactiver le suivi GPS sur la carte\n",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "(4 états : Suivi désactivé/Suivi activé/Orientation boussole/Orientation sens de la marche)",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "10959315-7f20-43ab-95a6-af148c53b1aa": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 1,
+        "type": "numbered_list",
+        "createdTime": 1619090657895,
+        "lastEditedTime": 1619090657895,
+        "parentId": "2dd34838-43b0-4b78-a80b-144cb77e69f1",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Panneau inférieur défilant\n",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "Ce panneau défile de gauche à droite et de bas en haut pour afficher les différents écrans : Suivi de randonnée ouverte, valeurs GPS, Enregistrement de randonnée, Altimétrie.",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "24416638-33c3-4f2e-b5a3-d52576954cf4": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 1,
+        "type": "numbered_list",
+        "createdTime": 1619090657905,
+        "lastEditedTime": 1619090657905,
+        "parentId": "2dd34838-43b0-4b78-a80b-144cb77e69f1",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Lancer l\u0027action\n",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "En fonction de l\u0027écran sélectionné dans le panneau inférieur défilant (voir point précédent) ce bouton déclenche l\u0027action principale de l\u0027écran choisi (ex : lancer l\u0027enregistrement, démarrer le suivi, ...)",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "5b8c581b-9eb3-4e64-ae39-60c2e9beef7c": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 1,
+        "type": "numbered_list",
+        "createdTime": 1619090657895,
+        "lastEditedTime": 1619090657895,
+        "parentId": "2dd34838-43b0-4b78-a80b-144cb77e69f1",
+        "parentTable": "block",
+        "createdByTable": "notion_user",
+        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "lastEditedByTable": "notion_user",
+        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
+        "properties": {
+          "title": [
+            [
+              {
+                "content": "Action(s) secondaire(s)\n",
+                "isString": true
+              },
+              [
+                [
+                  {
+                    "content": "b",
+                    "isString": true
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "content": "En fonction de l\u0027écran sélectionné dans le panneau inférieur défilant (voir point 6), ce bouton vous permet de déclencher une action en rapport avec l\u0027écran choisi (ex : itinéraire vers la randonnée, ajouter une photo, ...)",
+                "isString": true
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "de4d47ac-41b8-40cb-8ca7-0dc55de5b5cb": {
+      "role": "reader",
+      "value": {
+        "alive": true,
+        "version": 1,
         "type": "text",
-        "createdTime": 1618583191486,
-        "lastEditedTime": 1618583160000,
-        "parentId": "aaaa9896-22d6-4420-9e45-5405a0b32f8d",
+        "createdTime": 1619090657895,
+        "lastEditedTime": 1619090657895,
+        "parentId": "2dd34838-43b0-4b78-a80b-144cb77e69f1",
         "parentTable": "block",
         "createdByTable": "notion_user",
         "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
         "lastEditedByTable": "notion_user",
         "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
-        "properties": {
-          "title": [
-            [
-              {
-                "content": "Trois possibilités s\u0027offrent à vous :",
-                "isString": true
-              }
-            ]
-          ]
-        }
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425"
       }
     },
-    "1fe43bab-eb4e-4b72-95de-11cbde4f09e9": {
+    "b5d01ba6-c140-427c-a8dd-a22ffbc90fea": {
       "role": "reader",
       "value": {
         "alive": true,
-        "version": 33,
-        "type": "sub_sub_header",
-        "createdTime": 1618583191487,
-        "lastEditedTime": 1618583220000,
-        "parentId": "aaaa9896-22d6-4420-9e45-5405a0b32f8d",
-        "parentTable": "block",
-        "createdByTable": "notion_user",
-        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "lastEditedByTable": "notion_user",
-        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
-        "properties": {
-          "title": [
-            [
-              {
-                "content": "Connexion via Facebook",
-                "isString": true
-              }
-            ]
-          ]
-        }
-      }
-    },
-    "4ad1f6f1-5c38-4f06-8f31-962e4b2bd048": {
-      "role": "reader",
-      "value": {
-        "alive": true,
-        "version": 15,
-        "type": "numbered_list",
-        "createdTime": 1618583191487,
-        "lastEditedTime": 1618583160000,
-        "parentId": "aaaa9896-22d6-4420-9e45-5405a0b32f8d",
-        "parentTable": "block",
-        "createdByTable": "notion_user",
-        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "lastEditedByTable": "notion_user",
-        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
-        "properties": {
-          "title": [
-            [
-              {
-                "content": "Cliquez sur « ",
-                "isString": true
-              }
-            ],
-            [
-              {
-                "content": "Continuer avec facebook ",
-                "isString": true
-              },
-              [
-                [
-                  {
-                    "content": "b",
-                    "isString": true
-                  }
-                ]
-              ]
-            ],
-            [
-              {
-                "content": "».",
-                "isString": true
-              }
-            ]
-          ]
-        }
-      }
-    },
-    "cd610ba7-6e09-4b52-9bbc-769d887f3ea4": {
-      "role": "reader",
-      "value": {
-        "alive": true,
-        "version": 9,
-        "type": "numbered_list",
-        "createdTime": 1618583160000,
-        "lastEditedTime": 1618583160000,
-        "parentId": "aaaa9896-22d6-4420-9e45-5405a0b32f8d",
-        "parentTable": "block",
-        "createdByTable": "notion_user",
-        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "lastEditedByTable": "notion_user",
-        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
-        "properties": {
-          "title": [
-            [
-              {
-                "content": "Suivez les différentes étapes qui vous seront proposées.",
-                "isString": true
-              }
-            ]
-          ]
-        }
-      }
-    },
-    "f4cf30c5-f015-4f50-8192-8a37dcf23cd7": {
-      "role": "reader",
-      "value": {
-        "alive": true,
-        "version": 32,
-        "type": "sub_sub_header",
-        "createdTime": 1618583191487,
-        "lastEditedTime": 1618583220000,
-        "parentId": "aaaa9896-22d6-4420-9e45-5405a0b32f8d",
-        "parentTable": "block",
-        "createdByTable": "notion_user",
-        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "lastEditedByTable": "notion_user",
-        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
-        "properties": {
-          "title": [
-            [
-              {
-                "content": "Connexion via Google",
-                "isString": true
-              }
-            ]
-          ]
-        }
-      }
-    },
-    "b000d403-1ddf-4a55-9c5d-e5884f1344f2": {
-      "role": "reader",
-      "value": {
-        "alive": true,
-        "version": 26,
-        "type": "numbered_list",
-        "createdTime": 1618583191487,
-        "lastEditedTime": 1618583220000,
-        "parentId": "aaaa9896-22d6-4420-9e45-5405a0b32f8d",
-        "parentTable": "block",
-        "createdByTable": "notion_user",
-        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "lastEditedByTable": "notion_user",
-        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
-        "properties": {
-          "title": [
-            [
-              {
-                "content": "Cliquez sur « ",
-                "isString": true
-              }
-            ],
-            [
-              {
-                "content": "Continuer avec Google ",
-                "isString": true
-              },
-              [
-                [
-                  {
-                    "content": "b",
-                    "isString": true
-                  }
-                ]
-              ]
-            ],
-            [
-              {
-                "content": "».",
-                "isString": true
-              }
-            ]
-          ]
-        }
-      }
-    },
-    "84828c38-d010-4489-98f7-63f3355a6c45": {
-      "role": "reader",
-      "value": {
-        "alive": true,
-        "version": 11,
-        "type": "numbered_list",
-        "createdTime": 1618583220000,
-        "lastEditedTime": 1618583220000,
-        "parentId": "aaaa9896-22d6-4420-9e45-5405a0b32f8d",
-        "parentTable": "block",
-        "createdByTable": "notion_user",
-        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "lastEditedByTable": "notion_user",
-        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
-        "properties": {
-          "title": [
-            [
-              {
-                "content": "Sélectionnez le compte Google que vous voulez utiliser.",
-                "isString": true
-              }
-            ]
-          ]
-        }
-      }
-    },
-    "8ce4896f-9986-497d-8706-12ba1e8025a0": {
-      "role": "reader",
-      "value": {
-        "alive": true,
-        "version": 13,
-        "type": "numbered_list",
-        "createdTime": 1618583220000,
-        "lastEditedTime": 1618583220000,
-        "parentId": "aaaa9896-22d6-4420-9e45-5405a0b32f8d",
-        "parentTable": "block",
-        "createdByTable": "notion_user",
-        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "lastEditedByTable": "notion_user",
-        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
-        "properties": {
-          "title": [
-            [
-              {
-                "content": "Suivez les instructions en cliquant sur « ",
-                "isString": true
-              }
-            ],
-            [
-              {
-                "content": "Lier le compte ",
-                "isString": true
-              },
-              [
-                [
-                  {
-                    "content": "b",
-                    "isString": true
-                  }
-                ]
-              ]
-            ],
-            [
-              {
-                "content": "».",
-                "isString": true
-              }
-            ]
-          ]
-        }
-      }
-    },
-    "dd8634e1-a98d-4ef2-aa85-e60e80fc2c33": {
-      "role": "reader",
-      "value": {
-        "alive": true,
-        "version": 2,
+        "version": 1,
         "type": "text",
-        "createdTime": 1618583191487,
-        "lastEditedTime": 1618583160000,
-        "parentId": "aaaa9896-22d6-4420-9e45-5405a0b32f8d",
+        "createdTime": 1619090657895,
+        "lastEditedTime": 1619090657895,
+        "parentId": "2dd34838-43b0-4b78-a80b-144cb77e69f1",
         "parentTable": "block",
         "createdByTable": "notion_user",
         "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
         "lastEditedByTable": "notion_user",
         "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
         "properties": {
           "title": [
             [
               {
-                "content": "De cette façon votre compte google sera relié à votre compte SityTrail.",
-                "isString": true
-              }
-            ]
-          ]
-        }
-      }
-    },
-    "952c1290-3438-46e7-bc49-b0ac3ce0a7eb": {
-      "role": "reader",
-      "value": {
-        "alive": true,
-        "version": 44,
-        "type": "sub_sub_header",
-        "createdTime": 1618583220000,
-        "lastEditedTime": 1618583220000,
-        "parentId": "aaaa9896-22d6-4420-9e45-5405a0b32f8d",
-        "parentTable": "block",
-        "createdByTable": "notion_user",
-        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "lastEditedByTable": "notion_user",
-        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
-        "properties": {
-          "title": [
-            [
-              {
-                "content": "Connexion via une adresse e-mail",
-                "isString": true
-              }
-            ]
-          ]
-        }
-      }
-    },
-    "b9c87d62-6d4c-411b-bdbc-dd120a50c6c4": {
-      "role": "reader",
-      "value": {
-        "alive": true,
-        "version": 14,
-        "type": "numbered_list",
-        "createdTime": 1618583191488,
-        "lastEditedTime": 1618583220000,
-        "parentId": "aaaa9896-22d6-4420-9e45-5405a0b32f8d",
-        "parentTable": "block",
-        "createdByTable": "notion_user",
-        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "lastEditedByTable": "notion_user",
-        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
-        "properties": {
-          "title": [
-            [
-              {
-                "content": "Cliquez sur « ",
-                "isString": true
-              }
-            ],
-            [
-              {
-                "content": "Continuer avec une adresse email ",
+                "content": "Visionnez cette vidéo pour voir comment faire défiler ou agrandir ce panneau",
                 "isString": true
               },
               [
@@ -495,108 +525,38 @@
                     "content": "b",
                     "isString": true
                   }
-                ]
-              ]
-            ],
-            [
-              {
-                "content": "».",
-                "isString": true
-              }
-            ]
-          ]
-        }
-      }
-    },
-    "106f9cfb-5758-4fb1-8bb1-e0460d7b6550": {
-      "role": "reader",
-      "value": {
-        "alive": true,
-        "version": 12,
-        "type": "numbered_list",
-        "createdTime": 1618583220000,
-        "lastEditedTime": 1618583280000,
-        "parentId": "aaaa9896-22d6-4420-9e45-5405a0b32f8d",
-        "parentTable": "block",
-        "createdByTable": "notion_user",
-        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "lastEditedByTable": "notion_user",
-        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
-        "properties": {
-          "title": [
-            [
-              {
-                "content": "Remplissez les champs proposés.",
-                "isString": true
-              }
-            ]
-          ]
-        }
-      }
-    },
-    "cd5e6984-ffcb-4997-8b3f-96c3964fdc93": {
-      "role": "reader",
-      "value": {
-        "alive": true,
-        "version": 13,
-        "type": "numbered_list",
-        "createdTime": 1618583280000,
-        "lastEditedTime": 1618583280000,
-        "parentId": "aaaa9896-22d6-4420-9e45-5405a0b32f8d",
-        "parentTable": "block",
-        "createdByTable": "notion_user",
-        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "lastEditedByTable": "notion_user",
-        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
-        "properties": {
-          "title": [
-            [
-              {
-                "content": "Appuyez sur « ",
-                "isString": true
-              }
-            ],
-            [
-              {
-                "content": "Se connecter ",
-                "isString": true
-              },
-              [
+                ],
                 [
                   {
-                    "content": "b",
+                    "content": "a",
+                    "isString": true
+                  },
+                  {
+                    "content": "https://drive.google.com/open?id\u003d1x-FlXuM1rLXlM1sAHbyYXpTk6cc8yYQ7",
                     "isString": true
                   }
                 ]
               ]
-            ],
-            [
-              {
-                "content": "» afin d’arriver sur votre compte SityTrail.",
-                "isString": true
-              }
             ]
           ]
         }
       }
     },
-    "b01b518a-5f49-4f4e-865d-5ecf603b051f": {
+    "d44c64db-0a96-4bc6-819b-4f1c89b599cb": {
       "role": "reader",
       "value": {
         "alive": true,
-        "version": 8,
+        "version": 1,
         "type": "text",
-        "createdTime": 1618583280000,
-        "lastEditedTime": 1618583280000,
-        "parentId": "aaaa9896-22d6-4420-9e45-5405a0b32f8d",
+        "createdTime": 1619090657895,
+        "lastEditedTime": 1619090657895,
+        "parentId": "2dd34838-43b0-4b78-a80b-144cb77e69f1",
         "parentTable": "block",
         "createdByTable": "notion_user",
         "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
         "lastEditedByTable": "notion_user",
         "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833"
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425"
       }
     }
   }

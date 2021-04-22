@@ -1,25 +1,25 @@
 {
   "blocksMap": {
-    "f31b88c2-9765-4c8b-b2f6-2e9b2a9e747a": {
+    "3c3ab20d-f820-49c2-bb63-8d8b64ab676b": {
       "role": "reader",
       "value": {
         "alive": true,
-        "version": 9,
+        "version": 1,
         "type": "page",
-        "createdTime": 1618585003412,
-        "lastEditedTime": 1618584960000,
-        "parentId": "23215195-8d6e-485e-8f3e-a96645a0857e",
+        "createdTime": 1619090657894,
+        "lastEditedTime": 1619090657894,
+        "parentId": "b0ee6af3-6d5e-445c-88cd-4fa4f7b389ae",
         "parentTable": "block",
         "createdByTable": "notion_user",
         "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
         "lastEditedByTable": "notion_user",
         "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
         "properties": {
           "title": [
             [
               {
-                "content": "Comment prendre des photos lors d\u0027un enregistrement de randonnée ?",
+                "content": "Comment enregistrer une randonnée ?",
                 "isString": true
               }
             ]
@@ -27,21 +27,21 @@
         }
       }
     },
-    "23215195-8d6e-485e-8f3e-a96645a0857e": {
+    "b0ee6af3-6d5e-445c-88cd-4fa4f7b389ae": {
       "role": "reader",
       "value": {
         "alive": true,
-        "version": 118,
+        "version": 1,
         "type": "page",
-        "createdTime": 1618578076601,
-        "lastEditedTime": 1618614660000,
-        "parentId": "a8dff191-3178-4a65-a593-2520931dd7c7",
+        "createdTime": 1619090657893,
+        "lastEditedTime": 1619090657893,
+        "parentId": "b98849b2-c7c6-4549-8537-c25448b8f7c8",
         "parentTable": "block",
         "createdByTable": "notion_user",
         "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
         "lastEditedByTable": "notion_user",
         "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
         "properties": {
           "title": [
             [
@@ -54,21 +54,21 @@
         }
       }
     },
-    "a8dff191-3178-4a65-a593-2520931dd7c7": {
+    "b98849b2-c7c6-4549-8537-c25448b8f7c8": {
       "role": "reader",
       "value": {
         "alive": true,
-        "version": 33,
+        "version": 2,
         "type": "page",
-        "createdTime": 1618577580000,
-        "lastEditedTime": 1618578780000,
-        "parentId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "createdTime": 1619090660556,
+        "lastEditedTime": 1619090660556,
+        "parentId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
         "parentTable": "space",
         "createdByTable": "notion_user",
         "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
         "lastEditedByTable": "notion_user",
         "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833",
+        "spaceId": "5fa4aa37-6635-4e48-8784-7e3364e5f425",
         "properties": {
           "title": [
             [
@@ -79,23 +79,6 @@
             ]
           ]
         }
-      }
-    },
-    "2925c909-8963-4e91-b7c8-ddbcfc2c0d26": {
-      "role": "reader",
-      "value": {
-        "alive": true,
-        "version": 8,
-        "type": "text",
-        "createdTime": 1618584960000,
-        "lastEditedTime": 1618584960000,
-        "parentId": "f31b88c2-9765-4c8b-b2f6-2e9b2a9e747a",
-        "parentTable": "block",
-        "createdByTable": "notion_user",
-        "createdById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "lastEditedByTable": "notion_user",
-        "lastEditedById": "dac07695-f684-4a5d-b178-253aac4aa03b",
-        "spaceId": "625aced5-05c3-4f8f-b943-2bc75dc80833"
       }
     }
   }
