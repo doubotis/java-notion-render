@@ -6,9 +6,9 @@ This project serves as a modulable rendering engine for Notion Block objects (ht
 Comes with a sample web app that serves files from the web app resources folder, in form of JSON files, extracted from the private Notion API.
 IF you want to extract these JSON files from the private notion API, you can see this kotlin library : https://github.com/notionsdk/notion-sdk-kotlin
 
-## Usage
+## Basic usage
 
-First, we need to retreive a NotionRecordMap based on a JSON file.
+First, we need to retreive a `NotionRecordMap` based on a JSON file.
 
 ```
 File f = new File("<Your filepath>" + pageId.replace("-", "") + ".json");
@@ -25,3 +25,9 @@ PrintWriter pw = response.getWriter();
 BlockRenderFactory factory = new NotionThemeFactory();
 factory.printHTMLContent(pw, blocks);
 ```
+
+## Advanced usage
+
+You can also rewrite the theme factories to include your own behavior, CSS classes, etc.
+For this, you need to create a subclass of the `NotionThemeFactory` class. You'll need possibly to implement RenderContext interface.
+Please see the `be.doubotis.notion.render.theme.notion` package for more information.
