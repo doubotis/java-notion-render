@@ -20,13 +20,13 @@ public class NotionServlet extends javax.servlet.http.HttpServlet {
     }
 
     protected void doGet(javax.servlet.http.HttpServletRequest request, javax.servlet.http.HttpServletResponse response) throws javax.servlet.ServletException, IOException {
-        // We send the reponse as UTF-8.
+        // We send the response as UTF-8.
         response.setCharacterEncoding("UTF-8");
 
-        // Retreive the page id, with or without dashes.
+        // Retrieve the page id, with or without dashes.
         String pageId = request.getParameter("pageid");
 
-        // Build the resource name and get the inputstream of it.
+        // Build the resource name and get the InputStream of it.
         String resourceName = "/page-" + pageId.replace("-", "") + ".json";
         InputStream is = getClass().getResourceAsStream(resourceName);
         if (is == null) {
@@ -40,7 +40,7 @@ public class NotionServlet extends javax.servlet.http.HttpServlet {
         ObjectMapper om = new ObjectMapper();
         NotionRecordMap nrm = om.readValue(isr, NotionRecordMap.class);
 
-        // Retreive the list of blocks.
+        // Retrieve the list of blocks.
         Map<String, NotionBlock> blocks = nrm.getBlocks();
 
         // Setup the printer and return some headers.
