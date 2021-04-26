@@ -34,7 +34,7 @@ Please see the `be.doubotis.notion.render.theme.notion` package for more informa
 
 ## Examples
 
-The web project showcase how you can produce HTML contents based on
+The web project showcase how you can produce HTML contents based on Notion API objects.
 
 ## Known caveats
 
