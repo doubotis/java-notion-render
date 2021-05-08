@@ -10,8 +10,6 @@ import java.util.Map;
 
 public class BlockColumnRender extends BlockBaseRender {
 
-    static final SpanRender SPAN_RENDER = new SpanRender();
-
     @Override
     public void render(DOMBuilder dom, RenderContext context, String blockId, NotionBlock nb) {
         Map<String,Object> format = nb.getValue().getFormat();

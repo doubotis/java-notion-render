@@ -1,11 +1,18 @@
 package be.doubotis.notion.render.theme.notion;
 
 import be.doubotis.notion.entities.Primitive;
+import be.doubotis.notion.render.RenderContext;
 import be.doubotis.notion.render.TextRender;
 
 import java.util.*;
 
 public class SpanRender implements TextRender {
+
+    private RenderContext mContext;
+
+    public SpanRender(RenderContext context) {
+        mContext = context;
+    }
 
     @Override
     public String renderText(Object object) {
@@ -73,7 +80,8 @@ public class SpanRender implements TextRender {
             if (!closure) {
                 Primitive idPrimitive = Primitive.from(tags.get(1));
                 String id = idPrimitive.getContent();
-                return "<a class=\"page-link\" href=\"" + "/NotionServlet?pageid=" + id + "\" data-binding=\"" + id + "\">";
+                String url = mContext.buildLinkUrl(id);
+                return "<a class=\"page-link\" href=\"" + url + "\" data-binding=\"" + id + "\">";
             } else {
                 return "</a>";
             }

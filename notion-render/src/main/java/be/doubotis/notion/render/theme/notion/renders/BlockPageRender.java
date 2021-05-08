@@ -5,6 +5,7 @@ import be.doubotis.notion.entities.NotionProperties;
 import be.doubotis.notion.render.BlockRenderFactory;
 import be.doubotis.notion.render.RenderContext;
 import be.doubotis.notion.render.engine.DOMBuilder;
+import be.doubotis.notion.render.theme.notion.NotionRenderContext;
 import be.doubotis.notion.render.theme.notion.SpanRender;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -13,14 +14,14 @@ import java.util.List;
 
 public class BlockPageRender extends BlockHeaderRender {
 
-    static final SpanRender SPAN_RENDER = new SpanRender();
-
     public BlockPageRender() {
         super(1);
     }
 
     @Override
     public void render(DOMBuilder dom, RenderContext context, String blockId, NotionBlock nb) {
+        NotionRenderContext notionContext = (NotionRenderContext) context;
+
         List titleEl = (List) nb.getValue().getProperties().get("title");
         String parentId = nb.getValue().getParentId();
         String parentTable = nb.getValue().getParentTable();
@@ -28,7 +29,7 @@ public class BlockPageRender extends BlockHeaderRender {
         if (blockId.equals(context.getPageID())) {
             // This is the main title header block.
             Element div = dom.createElement( "h1", blockId);
-            div.html(SPAN_RENDER.renderText(titleEl));
+            div.html(notionContext.renderSpan(titleEl));
             insertIntoDocument(dom, context, null, div);
         }
         else
@@ -39,9 +40,10 @@ public class BlockPageRender extends BlockHeaderRender {
                 Element div = dom.createElement("div", null);
                 div.attr("style", "padding-top: 3px; padding-bottom: 3px;");
                 Element a = dom.createElement("a", blockId);
-                a.attr("href", "/NotionServlet?pageid=" + blockId);
+                String url = context.buildLinkUrl(blockId);
+                a.attr("href", url);
                 a.addClass("page-link");
-                a.html("<i class=\"far fa-file-alt\"></i>" + SPAN_RENDER.renderText(titleEl));
+                a.html("<i class=\"far fa-file-alt\"></i>" + notionContext.renderSpan(titleEl));
                 div.appendChild(a);
                 dom.getDocument().appendChild(div);
             } else {
@@ -72,6 +74,8 @@ public class BlockPageRender extends BlockHeaderRender {
 
     @Override
     public void doAfter(DOMBuilder dom, RenderContext context, String blockId, NotionBlock nb) {
+        NotionRenderContext notionContext = (NotionRenderContext) context;
+
         List titleEl = (List) nb.getValue().getProperties().get("title");
         String parentTable = nb.getValue().getParentTable();
 
@@ -80,7 +84,7 @@ public class BlockPageRender extends BlockHeaderRender {
             // Let's find some links inside the page and insert the right name.
             Elements elements = dom.querySelectorAll("a[data-binding=\"" + blockId + "\"]");
             for (Element a : elements) {
-                a.html("<i class=\"fas fa-link\"></i>" + SPAN_RENDER.renderText(titleEl));
+                a.html("<i class=\"fas fa-link\"></i>" + notionContext.renderSpan(titleEl));
             }
         //}
     }

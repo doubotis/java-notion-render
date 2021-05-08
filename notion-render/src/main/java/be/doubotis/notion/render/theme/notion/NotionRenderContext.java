@@ -21,6 +21,7 @@ public class NotionRenderContext implements RenderContext {
     private Map<String, BlockRender> mRenders;
     private String mPageID;
     private int mRenderingStep;
+    private SpanRender mSpanRender;
 
     public NotionRenderContext(Map<String, NotionBlock> blocks) {
         mBlocks = blocks;
@@ -28,6 +29,7 @@ public class NotionRenderContext implements RenderContext {
         mRenders = new HashMap<>();
         mRenderingStep = 0;
         mDOM = new DOMBuilder();
+        mSpanRender = new SpanRender(this);
     }
 
     @Override
@@ -45,10 +47,14 @@ public class NotionRenderContext implements RenderContext {
         return mRenderingStep;
     }
 
-
     @Override
     public String getPageID() {
         return mPageID;
+    }
+
+    @Override
+    public String buildLinkUrl(String pageId) {
+        return "/NotionServlet?pageid=" + pageId;
     }
 
     @Override
@@ -173,6 +179,10 @@ public class NotionRenderContext implements RenderContext {
             System.err.println("Block type not recognized: " + blockType);
             return null;
         }
+    }
+
+    public String renderSpan(Object object) {
+        return mSpanRender.renderText(object);
     }
 
 

@@ -13,8 +13,6 @@ import java.util.Map;
 
 public class BlockImageRender extends BlockBaseRender {
 
-    static final SpanRender SPAN_RENDER = new SpanRender();
-
     @Override
     public void render(DOMBuilder dom, RenderContext context, String blockId, NotionBlock nb) {
         List sourceEl = (List) nb.getValue().getProperties().get("source");

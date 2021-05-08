@@ -3,6 +3,7 @@ package be.doubotis.notion.render.theme.notion.renders;
 import be.doubotis.notion.entities.NotionBlock;
 import be.doubotis.notion.render.RenderContext;
 import be.doubotis.notion.render.engine.DOMBuilder;
+import be.doubotis.notion.render.theme.notion.NotionRenderContext;
 import be.doubotis.notion.render.theme.notion.SpanRender;
 import org.jsoup.nodes.Element;
 
@@ -10,10 +11,10 @@ import java.util.*;
 
 public class BlockBulletedListRender extends BlockBaseRender {
 
-    static final SpanRender SPAN_RENDER = new SpanRender();
-
     @Override
     public void render(DOMBuilder dom, RenderContext context, String blockId, NotionBlock nb) {
+        NotionRenderContext notionContext = (NotionRenderContext) context;
+
         Element ul = dom.createElement("ul", null);
         ul.attr("data-first-id", blockId);
 
@@ -28,7 +29,7 @@ public class BlockBulletedListRender extends BlockBaseRender {
         while (linesIterator.hasNext()) {
             String id = linesIterator.next();
             NotionBlock block = lines.get(id);
-            printNumberedListLine(dom, ul, id, block);
+            printNumberedListLine(dom, notionContext, ul, id, block);
             context.flagAsRendered(id);
         }
 
@@ -67,11 +68,11 @@ public class BlockBulletedListRender extends BlockBaseRender {
         return nb.getValue().getParentId();
     }
 
-    private void printNumberedListLine(DOMBuilder dom, Element node, String id, NotionBlock nb) {
+    private void printNumberedListLine(DOMBuilder dom, NotionRenderContext context, Element node, String id, NotionBlock nb) {
         List titleEl = (List) nb.getValue().getProperties().get("title");
 
         Element li = dom.createElement("li", id);
-        li.html(SPAN_RENDER.renderText(titleEl));
+        li.html(context.renderSpan(titleEl));
         node.appendChild(li);
     }
 }

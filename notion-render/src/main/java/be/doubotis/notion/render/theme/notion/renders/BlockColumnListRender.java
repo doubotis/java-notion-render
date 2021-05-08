@@ -8,8 +8,6 @@ import org.jsoup.nodes.Element;
 
 public class BlockColumnListRender extends BlockBaseRender {
 
-    static final SpanRender SPAN_RENDER = new SpanRender();
-
     @Override
     public void render(DOMBuilder dom, RenderContext context, String blockId, NotionBlock nb) {
         Element divRow = dom.createElement("div", blockId);
