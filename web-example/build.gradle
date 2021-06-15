@@ -1,0 +1,18 @@
+plugins {
+    id 'war'
+}
+
+group 'be.doubotis.notion'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+    maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+    compileOnly group: 'javax.servlet', name: 'javax.servlet-api', version: '3.0.1'
+
+    compile project(':lib-notion-render')
+}

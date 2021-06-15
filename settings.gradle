@@ -1,4 +1,4 @@
 rootProject.name = 'java-notion-render'
-include 'notion-render'
-
-
+include ':lib-notion-render'
+include 'app-pdf-generator'
+include 'web-example'

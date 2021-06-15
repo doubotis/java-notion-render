@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+}
+
+group 'be.doubotis.notion.pdf-generator'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+
+    compile project(':lib-notion-render')
+
+    implementation 'com.itextpdf:itext7-core:7.1.15'
+    implementation 'com.itextpdf:html2pdf:3.0.4'
+    implementation group: 'org.apache.commons', name: 'commons-text', version: '1.4'
+    implementation group: 'commons-io', name: 'commons-io', version: '2.9.0'
+    implementation group: 'org.jsoup', name: 'jsoup', version: '1.13.1'
+    implementation group: 'commons-cli', name: 'commons-cli', version: '1.4'
+}
+
+test {
+    useJUnitPlatform()
+}
