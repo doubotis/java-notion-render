@@ -3,8 +3,12 @@
 
 This project serves as a modulable rendering engine for Notion Block objects (https://www.notion.so/).
 
-Comes with a sample web app that serves files from the web app resources folder, in form of JSON files, extracted from the private Notion API.
-IF you want to extract these JSON files from the private notion API, you can see this kotlin library : https://github.com/notionsdk/notion-sdk-kotlin
+To get this to work, you'll neeed resources files, in form of JSON files, extracted from the private Notion API.
+If you want to extract these JSON files from the private notion API, you can see this kotlin library : https://github.com/notionsdk/notion-sdk-kotlin
+
+This project comes with :
+* A sample web app that serves files from the web app resources folder.
+* A console app that get files from an input folder and output a Pdf file.
 
 ## Basic usage
 
