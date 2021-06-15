@@ -3,7 +3,7 @@
 
 This project serves as a modulable rendering engine for Notion Block objects (https://www.notion.so/).
 
-To get this to work, you'll neeed resources files, in form of JSON files, extracted from the private Notion API.
+To get this to work, you'll need resources files, in form of JSON files, extracted from the private Notion API.
 If you want to extract these JSON files from the private notion API, you can see this kotlin library : https://github.com/notionsdk/notion-sdk-kotlin
 
 This project comes with :
