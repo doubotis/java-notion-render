@@ -33,12 +33,8 @@ factory.printHTMLContent(pw, blocks);
 ## Advanced usage
 
 You can also rewrite the theme factories to include your own behavior, CSS classes, etc.
-For this, you need to create a subclass of the `NotionThemeFactory` class. You'll need possibly to implement `RenderContext` interface.
+For this, you have to create a subclass of the `NotionThemeFactory` class. In some cases, you'll want to implement `RenderContext` interface also.
 Please see the `be.doubotis.notion.render.theme.notion` package for more information.
-
-## Examples
-
-The web project showcase how you can produce HTML contents based on Notion API objects.
 
 ## Known caveats
 
