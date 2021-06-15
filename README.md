@@ -3,8 +3,12 @@
 
 This project serves as a modulable rendering engine for Notion Block objects (https://www.notion.so/).
 
-Comes with a sample web app that serves files from the web app resources folder, in form of JSON files, extracted from the private Notion API.
-IF you want to extract these JSON files from the private notion API, you can see this kotlin library : https://github.com/notionsdk/notion-sdk-kotlin
+To get this to work, you'll need resources files, in form of JSON files, extracted from the private Notion API.
+If you want to extract these JSON files from the private notion API, you can see this kotlin library : https://github.com/notionsdk/notion-sdk-kotlin
+
+This project comes with :
+* A sample web app that serves files from the web app resources folder.
+* A console app that get files from an input folder and output a Pdf file.
 
 ## Basic usage
 
@@ -29,12 +33,8 @@ factory.printHTMLContent(pw, blocks);
 ## Advanced usage
 
 You can also rewrite the theme factories to include your own behavior, CSS classes, etc.
-For this, you need to create a subclass of the `NotionThemeFactory` class. You'll need possibly to implement `RenderContext` interface.
+For this, you have to create a subclass of the `NotionThemeFactory` class. In some cases, you'll want to implement `RenderContext` interface also.
 Please see the `be.doubotis.notion.render.theme.notion` package for more information.
-
-## Examples
-
-The web project showcase how you can produce HTML contents based on Notion API objects.
 
 ## Known caveats
 
