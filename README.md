@@ -30,6 +30,12 @@ BlockRenderFactory factory = new NotionThemeFactory();
 factory.printHTMLContent(pw, blocks);
 ```
 
+### Console App to output Pdf file
+Command line parameters :
+```
+-d <input directory> -o <output file>
+```
+
 ## Advanced usage
 
 You can also rewrite the theme factories to include your own behavior, CSS classes, etc.
