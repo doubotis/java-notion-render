@@ -10,6 +10,23 @@ This project comes with :
 * A sample web app that serves files from the web app resources folder.
 * A console app that get files from an input folder and output a Pdf file.
 
+## Installation
+The ```lib-notion-render``` is available on Maven : https://panel.repsy.io/mvn/doubotis/default/
+
+Install with Maven :
+```
+<dependency>
+  <groupId>be.doubotis.notion</groupId>
+  <artifactId>notion-render</artifactId>
+  <version>1.5</version>
+</dependency>
+```
+
+Install with Gradle :
+```
+implementation 'be.doubotis.notion:notion-render:1.5'
+```
+
 ## Basic usage
 
 First, we need to retreive a `NotionRecordMap` based on a JSON file.
